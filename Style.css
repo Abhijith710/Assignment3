@@ -38,6 +38,7 @@ p{color:blue;}
     color:black;
     transition: .5s ease-in-out;
 }
+form{float:center}
 .login{
     background-color: bisque;
     border: 2px solid red;
