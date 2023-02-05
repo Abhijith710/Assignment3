@@ -42,9 +42,12 @@ p{color:blue;}
     background-color: bisque;
     border: 2px solid red;
     padding: 30px;
-    float: center;
+    Margin-top:30px;
+    Margin-bottom:30px;
+    Margin-right:30px;
+    Margin-left:30px;
 }
-.login h2{
+h2{
     color: green;
 }
 #login-button{
